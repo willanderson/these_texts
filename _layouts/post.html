@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="post center">
+    <div class="content">
+        <div class="date">
+            <a href="{{ post.url }}"><p>{{ page.date | date: "%a, %b %d, %I:%M %p" }}</p></a>
+        </div>
+        <div class="chats">
+          {% for chat in page.chats %}
+            <div class="row">
+                <div class="chat" id="chat-btn" >
+                    <p>{{ chat.message }}</p>
+                </div>
+            </div>
+          {% endfor %}
+        </div>
+    </div>
+</div>
