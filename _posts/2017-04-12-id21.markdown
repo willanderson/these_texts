@@ -1,0 +1,8 @@
+---
+title: id21
+date: 2017-04-12 20:37:00 -07:00
+chats:
+- message: Thanks for your Good Eggs order today. Let us know how things went with
+    a rating of 1–5 (5 is best).
+---
+
