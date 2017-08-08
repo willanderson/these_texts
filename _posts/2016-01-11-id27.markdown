@@ -1,0 +1,7 @@
+---
+title: id27
+date: 2016-01-11 17:44:00 -08:00
+chats:
+- message: "Did Kelly look at your LinkedIn recently \U0001F440"
+---
+
