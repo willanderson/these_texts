@@ -14,9 +14,9 @@ defaults:
     type: posts
   values:
     layout: post
-    permalink: "posts/:year/:month/:day/:hour:minute:year"
+    permalink: posts/:year/:month/:day/:hour:minute:year
     chats:
-    - message:
+    - message: 
 - scope:
     path: ''
     type: pages
