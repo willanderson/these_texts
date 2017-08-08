@@ -213,6 +213,8 @@ header {
   margin-top: 25px;
 }
 
+
+
 .chats:last-child:before {
 	content: "";
 	position:absolute;
@@ -254,6 +256,57 @@ header {
 
 .date a {
   text-align: center;
+}
+
+/*404 page*/
+
+.error {
+  height: calc(100% - 62px);
+}
+
+.error .chat {
+	position:relative;
+	padding: 0px 32px 0px 16px;
+	background: #1FCA4E;
+	border-radius:25px;
+  margin: 2px 0px;
+	color: black;
+  float: left;
+}
+
+.error .chat:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  bottom: -2px;
+  right: -7px;
+  height: 20px;
+  border-right: 20px solid #1FCA4E;
+  border-bottom-left-radius: 16px 14px;
+  -webkit-transform: translate(0, -2px);
+}
+
+.error .chat:after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  bottom: -2px;
+  right: -56px;
+  width: 26px;
+  height: 20px;
+  background: white;
+  border-bottom-left-radius: 10px;
+  -webkit-transform: translate(-30px, -2px);
+}
+
+.error .chat p {
+  color: white;
+}
+
+.error .chat a {
+  text-decoration: underline;
+  color: white;
+  font-size: 20px;
 }
 
 
