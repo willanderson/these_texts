@@ -16,7 +16,7 @@ defaults:
     layout: post
     permalink: "/messages/:year/:month/:day/:hour:minute:year/"
     chats:
-    - message:
+    - message: 
 - scope:
     path: ''
     type: pages
