@@ -14,15 +14,15 @@ defaults:
     type: posts
   values:
     layout: post
-    permalink: posts/:year/:month/:day/:hour:minute:year
+    permalink: /messages/:year/:month/:day/:hour:minute:year/
     chats:
-    - message: 
+    - message:
 - scope:
     path: ''
     type: pages
   values:
     layout: page
-permalink: pretty
+permalink: /messages/:year/:month/:day/:hour:minute:year/
 about_text: These Texts is a collection of text messages I've received from people
   I know, or knew at some point. The messages are organized chronically—each one representing
   1 week from the last two years.

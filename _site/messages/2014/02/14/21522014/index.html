@@ -15,9 +15,45 @@
 </head>
 
 <body>
-  {% include header.html %}
+  <header>
+    <div class="menu">
+        <div class="left">
+            <h1><a href="/">These Texts</a><span class="blinking-cursor">|</span></h1>
+            <div class="typing">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+        <div class="right">
+            <a id="about-btn" href="#">Information</a>
+        </div>
+    </div>
+</header>
+<section id="drawer">
+    <div class="about-content">
+        <p>These Texts is a collection of text messages I've received from people I know, or knew at some point. The messages are organized chronically—each one representing 1 week from the last two years. </p>
+    </div>
+</section>
+
   <div id="page-content">
-      {{ content }}
+      <div class="post center">
+    <div class="content">
+        <div class="date">
+            <a href=""><p>Fri, Feb 14, 09:52 PM</p></a>
+        </div>
+        <div class="chats">
+          
+            <div class="row">
+                <div class="chat" id="chat-btn" >
+                    <p>Hey wanna go to holy mountain?</p>
+                </div>
+            </div>
+          
+        </div>
+    </div>
+</div>
+
   </div>
 
 <!-- Google Analytics Start -->
