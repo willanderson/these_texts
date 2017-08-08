@@ -1,0 +1,10 @@
+---
+title: id39
+date: 2015-05-21 08:43:00 -07:00
+chats:
+- message: Good morning, Will. Could you do me a favor when you get up?
+- message: I forgot to cover my casserole in the kitchen with the aluminium foil and
+    put it in the fridge. Could you do that for me? Feel fre to help yourself if you
+    like, it's lamb and yuca (manioc)
+---
+
