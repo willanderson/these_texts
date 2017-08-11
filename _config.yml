@@ -15,7 +15,7 @@ defaults:
   values:
     layout: post
     chats:
-    - message: 
+    - message:
 - scope:
     path: ''
     type: pages
@@ -25,7 +25,6 @@ about_text: These Texts is a collection of text messages I've received from peop
   I know, or knew at some point. The messages are organized chronically—each one representing
   1 week from the last two years.
 error_text: 404. Sorry, but his page doesn’t exist. Go back.
-plugins:
-- jekyll-paginate
+plugins: [jekyll-paginate]
 paginate: 15
 paginate_path: page:num
