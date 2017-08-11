@@ -1,0 +1,25 @@
+---
+title: These Texts
+layout: default
+---
+
+<section id="page-content" class="posts post-list">
+  {% for post in paginator.posts %}
+      {% include chat.html %}
+  {% endfor %}
+</section>
+<div class="pagination">
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="pagination__next">Next</a>
+    {% endif %}
+</div>
+<div class="scroller-status">
+  <div class="infinite-scroll-request loader-ellips">
+    <div class="typing">
+        <span></span>
+        <span></span>
+        <span></span>
+    </div>
+  </div>
+  <p class="infinite-scroll-last">End of content</p>
+</div>

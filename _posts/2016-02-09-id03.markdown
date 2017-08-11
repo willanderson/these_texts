@@ -1,0 +1,13 @@
+---
+title: id03
+date: 2016-02-09 00:15:00 -08:00
+chats:
+- message: i dont want to lose you, but i like you too much to have you at arms length.
+    it sounds torturous. im sad ill never get the feeling of hopping in a car to get
+    to the room above the bar. the smell of your freaking vape, your ikea covers,
+    your bread loaf. sad you dont want it anymore, or cant bring yourself to. i wish
+    i was 24 and on divisadero. i cant be enough so thats why i feel sorry. its just
+    sad.
+- message: im gonna miss you
+---
+

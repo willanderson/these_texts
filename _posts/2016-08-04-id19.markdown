@@ -1,0 +1,7 @@
+---
+title: id19
+date: 2016-08-04 10:20:00 -07:00
+chats:
+- message: Why don't you text me like a normal person
+---
+

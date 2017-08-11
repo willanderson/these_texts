@@ -1,0 +1,7 @@
+---
+title: id28
+date: 2015-11-02 23:21:00 -08:00
+chats:
+- message: Omg you have the same birthday as Kendall Jenner
+---
+

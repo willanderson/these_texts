@@ -1,0 +1,30 @@
+---
+title: These Texts
+timezone: America/Los_Angeles
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    chats:
+    - message:
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+about_text: These Texts is a collection of text messages I've received from people
+  I know, or knew at some point. The messages are organized chronically—each one representing
+  1 week from the last two years.
+error_text: 404. Sorry, but his page doesn’t exist. Go back.
+plugins: [jekyll-paginate]
+paginate: 15
+paginate_path: "page:num"

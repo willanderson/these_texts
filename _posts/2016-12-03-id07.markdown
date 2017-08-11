@@ -1,0 +1,7 @@
+---
+title: id07
+date: 2016-12-03 00:29:00 -08:00
+chats:
+- message: Hey! You kinda dipped. Hope you're good
+---
+

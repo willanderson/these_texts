@@ -1,0 +1,9 @@
+---
+title: id09
+date: 2016-11-05 14:36:00 -07:00
+chats:
+- message: "Brian! Asian kid who likes espresso, planes, The New Yorker, and talking
+    about the human experience \U0001F60A"
+- message: My phone was stolen
+---
+

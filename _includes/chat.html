@@ -1,0 +1,16 @@
+<div class="post center">
+    <div class="content">
+        <div class="date">
+            <a href="{{ post.url }}"><p>{{ post.date | date: "%a, %b %d, %I:%M %p" }}</p></a>
+        </div>
+        <div class="chats">
+          {% for chat in post.chats %}
+            <div class="row">
+                <div class="chat" id="chat-btn" >
+                    <p>{{ chat.message }}</p>
+                </div>
+            </div>
+          {% endfor %}
+        </div>
+    </div>
+</div>

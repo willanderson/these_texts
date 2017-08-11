@@ -1,0 +1,7 @@
+---
+title: id43
+date: 2015-11-24 15:36:00 -08:00
+chats:
+- message: Hey dude. Do you have plans for thanksgiving?
+---
+
