@@ -15,7 +15,7 @@ defaults:
   values:
     layout: post
     chats:
-    - message: 
+    - message:
 - scope:
     path: ''
     type: pages
@@ -23,13 +23,9 @@ defaults:
     layout: page
 about_text: "These Texts is a collection of messages I've received from people I know,
   or knew at some point. The messages are organized chronically—each one roughly representing
-  1 week from the last three years. \n\nThere is very little criteria for selecting
-  messages other than that they had to be sent to me directly (e.g. no group chats).
-  Nothing in the messages have been altered other than removing last names or other
-  identifiable information. \n\nWhile the messages date back as far as 2014, I began
-  compiling them in September 2016. The project is roughly inspired by [Jamie Livingston](http://photooftheday.hughcrawford.com/),
+  1 week from the last three years. \n\nThe project is roughly inspired by [Jamie Livingston](http://photooftheday.hughcrawford.com/),
   [Miranda July](http://wethinkalone.com/), and the slew of similar works [already](http://www.textsfromlastnight.com/)
-  out there.    \n"
+  out there."
 error_text: 404. Sorry, but his page doesn’t exist. Go back.
 plugins:
 - jekyll-paginate
