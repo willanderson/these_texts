@@ -1,0 +1,9 @@
+---
+title: It's true
+date: 2016-09-14 22:48:00 -07:00
+chats:
+- message: It's true
+- message: We could hold each other til we fall asleep
+- message: Or we could fuck like mad and pass out sweaty and happy
+---
+
