@@ -1,0 +1,23 @@
+---
+layout: default
+permalink: '/test/'
+---
+
+
+<div id="typed-strings">
+    These Texts
+</div>
+
+<span id="typed"></span>
+
+
+<script>
+  document.addEventListener('DOMContentLoaded', function(){
+      Typed.new('#typed-strings', {
+        strings: ["These"],
+        attr: 'placeholder',
+        typeSpeed: 5,
+        smartBackspace: true
+      });
+  });
+</script>
