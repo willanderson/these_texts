@@ -5,6 +5,7 @@ collections:
   posts:
     title: Posts
     output: true
+    permalink: /messages/:year/:month/:day/:hour:minute:year/
   uploads:
     title: Uploads
     output: true
