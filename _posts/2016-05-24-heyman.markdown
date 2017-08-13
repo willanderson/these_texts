@@ -1,8 +1,0 @@
----
-title: heyman
-date: 2016-05-24 21:41:00 -07:00
-chats:
-- message: Hey man, I built a little shelf for our bathroom – feel free to load it
-    up!
----
-
