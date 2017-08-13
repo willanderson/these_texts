@@ -5,7 +5,7 @@ $(document).ready(function() {
 
 
     $(window).resize(function(){
-      var h = $('#drawer').outerHeight(true)
+      var h = $('#drawer').outerHeight(true);
       $("#drawer").css("top", h * -1);
     })
 

@@ -16,6 +16,9 @@ body {
   font-family: "Helvetica Neue";
   font-size: 20px;
   font-weight: normal;
+  position: relative;
+  height: auto;
+  min-height: 100% !important;
 }
 
 a {
@@ -149,6 +152,7 @@ header {
   padding: 20px;
   border-bottom: 1px solid #9A999D;
   display: flex;
+  opacity: 0;
   align-items: center;
   justify-content: center;
   max-height: calc(100vh - 62px);
@@ -157,6 +161,14 @@ header {
 
 .menu--active #drawer {
   top: 62px !important;
+  opacity: 1;
+}
+
+@media (max-width: 400px) {
+    #drawer {
+    min-height: 100vh;
+    max-height: none;
+  }
 }
 
 
@@ -167,8 +179,9 @@ header {
 }
 
 .menu--active #page-content {
-  margin-top: 454px;
+  margin-top: 339px;
   opacity: .45;
+
 }
 
 .post {
@@ -250,13 +263,18 @@ header {
   width: 100%;
   margin-bottom: 1rem;
   font-size: 14px;
-  color: #8E8E90;
+  color: #909090;
   text-align: center;
   top: -35px;
 }
 
 .date a {
   text-align: center;
+}
+
+.date .postDate {
+  font-family: "HelveticaNeueMedium", "HelveticaNeue-Medium", "Helvetica Neue Medium", "HelveticaNeue", "Helvetica Neue", 'TeXGyreHerosRegular', "Helvetica", "Tahoma", "Geneva", "Arial", sans-serif;
+
 }
 
 /*404 page*/
