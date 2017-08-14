@@ -5,6 +5,7 @@ collections:
   posts:
     title: Posts
     output: true
+    permalink: "/posts/:year/:month/:day/:hour:minute:year"
   uploads:
     title: Uploads
     output: true
@@ -16,7 +17,7 @@ defaults:
     layout: post
     permalink: "/posts/:year/:month/:day/:hour:minute:year"
     chats:
-    - message: 
+    - message:
 - scope:
     path: ''
     type: pages
