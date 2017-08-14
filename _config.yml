@@ -12,11 +12,12 @@ defaults:
 - scope:
     path: ''
     type: posts
+    permalink: "/posts/:year/:month/:day/:hour:minute:year"
   values:
     layout: post
     permalink: "/posts/:year/:month/:day/:hour:minute:year"
     chats:
-    - message: 
+    - message:
 - scope:
     path: ''
     type: pages
