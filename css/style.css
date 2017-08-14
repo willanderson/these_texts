@@ -165,11 +165,22 @@ header {
 }
 
 @media (max-width: 400px) {
-    #drawer {
-    min-height: 100vh;
+  #drawer {
+    height: 100%;
     max-height: none;
+    align-items: flex-start;
+    padding: 0px;
+  }
+
+  .about-content {
+    max-width: none;
+    margin: 0px;
+    padding: 16px 0px;
+    position: relative;
   }
 }
+
+
 
 
 /*Blog Posts*/
