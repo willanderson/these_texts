@@ -24,10 +24,8 @@ defaults:
     layout: page
 about_text: "These Texts is a collection of messages I've received from people I know,
   or knew at some point. The messages are organized chronically—each one roughly representing
-  1 week from the last three years. \n\nThe project is roughly inspired by [Jamie
-  Livingston](http://photooftheday.hughcrawford.com/), [Miranda July](http://wethinkalone.com/),
-  and the slew of similar works [already](http://www.textsfromlastnight.com/) out
-  there."
+  1 week of time since 2014.\n\nA few of the messages have been altered to remove
+  last names or other identifiable information. "
 error_text: 404. Sorry, but his page doesn’t exist. Go back.
 plugins:
 - jekyll-paginate
