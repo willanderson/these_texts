@@ -1,0 +1,10 @@
+---
+title: OMG SO AM I
+date: 2016-05-07 20:04:00 -07:00
+chats:
+- message: OMG
+- message: SO AM I SEEIFN U TONIGHT
+- message: RAGE
+- message: RAGE
+---
+
