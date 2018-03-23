@@ -1,0 +1,7 @@
+---
+title: Yoyo - you
+date: 2017-06-08 13:30:00 -07:00
+chats:
+- message: Yoyo - you vaping somewhere? Wanted I grab you for 5 :)
+---
+
