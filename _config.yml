@@ -22,12 +22,11 @@ defaults:
     type: pages
   values:
     layout: page
-about_text: "These Texts is a collection of messages I've received from people I know,
-  or knew at some point. The messages are organized chronically—each one roughly representing
-  1 week of time since 2014.\n\nA few of the messages have been altered to remove
-  last names or other identifiable information. "
+about_text: These Texts is a collection of messages I've received from people I know,
+  or knew at some point. The messages are organized chronologically—each one roughly
+  representing 1 week of time since 2014.
 error_text: 404. Sorry, but his page doesn’t exist. Go back.
 plugins:
 - jekyll-paginate
-paginate: 15
+paginate: 30
 paginate_path: page:num
