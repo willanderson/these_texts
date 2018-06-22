@@ -1,0 +1,9 @@
+---
+title: cant
+date: 2018-06-19 15:28:00 -07:00
+chats:
+- message: Can't rn
+- message: Busy day
+- message: Miss you tho
+---
+
