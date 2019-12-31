@@ -1,0 +1,8 @@
+---
+title: im out
+date: 2018-05-31 15:17:00 -07:00
+chats:
+- message: "I'm out, key is on the wooden chair in the living room. Have good summers
+    ✌\U0001F3FC"
+---
+

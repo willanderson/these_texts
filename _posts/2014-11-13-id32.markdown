@@ -1,0 +1,9 @@
+---
+title: id32
+date: 2014-11-13 21:45:00 -08:00
+chats:
+- message: |-
+    Hi Guys:
+     what about Sunday to sign lease 1 or 2 pm @ 592 Jefferson Ave.?
+---
+

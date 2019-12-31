@@ -1,0 +1,9 @@
+---
+title: id07
+date: 2016-08-09 21:29:00 -07:00
+chats:
+- message: Can't u just feel the mania
+- message: In his eerily calm demeanor
+- message: At first I was like maybe his dad is just trying to ruin his life
+---
+

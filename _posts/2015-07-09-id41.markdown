@@ -1,0 +1,9 @@
+---
+title: id41
+date: 2015-07-09 23:04:00 -07:00
+chats:
+- message: How are you Will?
+- message: I have to admit I've been thinking about last night for most of today,
+    and I'd really like to get to know you better
+---
+

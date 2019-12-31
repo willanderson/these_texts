@@ -1,0 +1,8 @@
+---
+title: train
+date: 2018-06-10 22:35:00 -07:00
+chats:
+- message: Hey there! Welcome back to California!  I won’t be able to train you tomorrow
+    morning. But Wednesday is good. I’m terribly sorry for the inconvenience
+---
+

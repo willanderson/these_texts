@@ -1,0 +1,8 @@
+---
+title: id38
+date: 2015-04-03 22:37:00 -07:00
+chats:
+- message: WILL! Have a great last hoorah in NYC. Sorry I couldn't make it. Best of
+    luck on the best coast!
+---
+

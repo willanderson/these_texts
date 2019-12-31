@@ -1,0 +1,8 @@
+---
+title: ima slap u
+date: 2017-08-17 13:59:00 -07:00
+published: false
+chats:
+- message: ima slap u
+---
+

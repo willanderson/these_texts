@@ -1,0 +1,29 @@
+---
+layout: default
+---
+
+{% assign now_year = "now" | date: "%Y" %}
+{% assign post_year = page.date | date: "%Y" %}
+{% assign post_time = page.date | date: " %-I:%M %p" %}
+{% if now_year == post_year %}
+  {% assign post_date = page.date | date: "%a, %b %-d," %}
+{% else %}
+  {% assign post_date = page.date | date: "%b %-d, %Y," %}
+{% endif %}
+
+<div class="post center">
+    <div class="content">
+        <div class="date">
+          <p><span class="postDate">{{ post_date }}</span><span class="postTime">{{ post_time }}</span</p>
+        </div>
+        <div class="chats">
+          {% for chat in page.chats %}
+            <div class="row">
+                <div class="chat" id="chat-btn" >
+                    <p>{{ chat.message }}</p>
+                </div>
+            </div>
+          {% endfor %}
+        </div>
+    </div>
+</div>

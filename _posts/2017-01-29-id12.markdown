@@ -1,0 +1,8 @@
+---
+title: id12
+date: 2017-01-29 01:31:00 -08:00
+chats:
+- message: My ex is here from LA
+- message: I just wanna get fucked when someone's watching me
+---
+

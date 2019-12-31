@@ -1,0 +1,12 @@
+---
+title: shi
+date: 2017-11-30 09:50:00 -08:00
+chats:
+- message: shi
+- message: shit
+- message: am I going to get fired?
+- message: omg
+- message: I’m freaking the fuck out
+- message: 'Ugh I suck : ('
+---
+

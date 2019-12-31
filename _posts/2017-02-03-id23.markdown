@@ -1,0 +1,8 @@
+---
+title: id23
+date: 2017-02-03 19:53:00 -08:00
+chats:
+- message: "@Eaze: Your delivery is approx. 18 minute(s) away."
+- message: "@Eaze: Your delivery is approx. 1 minute(s) away."
+---
+

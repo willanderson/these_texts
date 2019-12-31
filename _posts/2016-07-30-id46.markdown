@@ -1,0 +1,10 @@
+---
+title: id46
+date: 2016-07-30 07:16:00 -07:00
+chats:
+- message: 'Hey Will! This is Taylor. I woke up in a panic about my bag–thanks so
+    much for keeping it safe. My laptop survived, yeah? If possible I''d like to pick
+    it up sometime today. I''m totally open re: time and location so let me know what
+    works for you.'
+---
+

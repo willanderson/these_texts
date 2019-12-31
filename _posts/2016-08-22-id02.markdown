@@ -1,0 +1,10 @@
+---
+title: id02
+date: 2016-08-22 20:45:00 -07:00
+chats:
+- message: Hmm
+- message: Yeah come here
+- message: I've got amazing speakers amazing voice and amazing blow so no reason not
+    to. We'll work from there
+---
+

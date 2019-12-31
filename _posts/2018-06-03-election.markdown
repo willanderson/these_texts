@@ -1,0 +1,9 @@
+---
+title: election
+date: 2018-06-03 14:45:00 -07:00
+chats:
+- message: Hi William this is Anoop with Khojasteh for Congress. Tuesday's election
+    will be an important turning point for the future of our city. What's the most
+    important issue to you, William?
+---
+
