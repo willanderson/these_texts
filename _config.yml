@@ -16,19 +16,13 @@ defaults:
     layout: post
     permalink: "/posts/:year/:month/:day/:hour:minute:year/"
     chats:
-    - message: 
+    - message:
 - scope:
     path: ''
     type: pages
   values:
     layout: page
-about_text: "These Texts is a collection of messages I've received from people I know,
-  or knew at some point. The messages are organized chronologically. \n\nWhile the
-  messages date back as far as 2014, I began collecting and posting them in September
-  2016. The project is somewhat inspired by Jamie Livingston's [Some Photos of That
-  Day](http://photooftheday.hughcrawford.com/), Miranda July's [We Think Alone](http://wethinkalone.com/),
-  and the slew of similar [stuff](https://www.google.com/search?client=chrome-omni&ei=Nb61WuGWCNHGwAKSmYmIDw&q=funny+texts&oq=funny+texts&gs_l=psy-ab.3..0i131i67k1j0i131k1j0l8.9159.10419.0.10635.11.11.0.0.0.0.199.1098.6j4.10.0..2..0...1.1.64.psy-ab..1.10.1093...0i67k1.0.jve8-USEbQM)
-  already out there. \n\nQuestions, comments, concerns? [Text me](http://willanderson.co/). "
+about_text: These Texts is a record of text messages [Will Anderson](http://willanderson.co/) received between June 2014 and June 2019. The messages are organized chronologically.
 error_text: 404. Sorry, but his page doesn’t exist. Go back.
 plugins:
 - jekyll-paginate
