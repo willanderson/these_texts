@@ -22,7 +22,7 @@ defaults:
     type: pages
   values:
     layout: page
-about_text: "These Texts is a record of text messages I've received between June 2014
+about_text: "These Texts is a record of text messages I received between June 2014
   through June 2020. The messages are organized chronologically. \n\nBuilt by [Will
   Anderson](http://willanderson.co/). "
 error_text: 404. Sorry, but his page doesn’t exist. Go back.
